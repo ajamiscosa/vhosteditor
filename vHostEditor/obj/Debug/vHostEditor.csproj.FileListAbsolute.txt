@@ -1,0 +1,10 @@
+D:\Projects\Editor\vHostEditor\bin\Debug\vHostEditor.exe.config
+D:\Projects\Editor\vHostEditor\bin\Debug\vHostEditor.exe
+D:\Projects\Editor\vHostEditor\bin\Debug\vHostEditor.pdb
+D:\Projects\Editor\vHostEditor\bin\Debug\Ini.Net.dll
+D:\Projects\Editor\vHostEditor\obj\Debug\vHostEditor.Main.resources
+D:\Projects\Editor\vHostEditor\obj\Debug\vHostEditor.Properties.Resources.resources
+D:\Projects\Editor\vHostEditor\obj\Debug\vHostEditor.csproj.GenerateResource.Cache
+D:\Projects\Editor\vHostEditor\obj\Debug\vHostEditor.exe
+D:\Projects\Editor\vHostEditor\obj\Debug\vHostEditor.pdb
+D:\Projects\Editor\vHostEditor\obj\Debug\vHostEditor.csprojResolveAssemblyReference.cache
